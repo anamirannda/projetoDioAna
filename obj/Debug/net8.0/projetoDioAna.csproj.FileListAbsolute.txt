@@ -1,0 +1,14 @@
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\projetoDioAna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\projetoDioAna.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\projetoDioAna.AssemblyInfo.cs
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\projetoDioAna.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\bin\Debug\net8.0\projetoDioAna.exe
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\bin\Debug\net8.0\projetoDioAna.deps.json
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\bin\Debug\net8.0\projetoDioAna.runtimeconfig.json
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\bin\Debug\net8.0\projetoDioAna.dll
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\bin\Debug\net8.0\projetoDioAna.pdb
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\projetoDioAna.dll
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\refint\projetoDioAna.dll
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\projetoDioAna.pdb
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\projetoDioAna.genruntimeconfig.cache
+C:\Users\Gamer\Documents\GitHub\projetoDioAna\obj\Debug\net8.0\ref\projetoDioAna.dll
